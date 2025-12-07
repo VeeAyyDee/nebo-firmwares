@@ -1,16 +1,9 @@
 [
     {
-        "type": "esp32-fota-https",
-        "version": 4,
-        "host": "raw.githubusercontent.com",
-        "port": 443,
-        "bin": "/VeeAyyDee/nebo-firmwares/main/nebo-air-680-4.bin"
-    },
-    {
         "type": "nebo-air-bme680",
-        "version": 8,
+        "version": 10,
         "host": "raw.githubusercontent.com",
         "port": 443,
-        "bin": "/VeeAyyDee/nebo-firmwares/main/nebo-air-680-8.bin"
+        "bin": "/VeeAyyDee/nebo-firmwares/main/intermediate.bin"
     }
 ]
